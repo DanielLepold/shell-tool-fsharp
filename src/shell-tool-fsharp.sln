@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "shell-tool-fsharp", "shell-tool-fsharp\shell-tool-fsharp.fsproj", "{84F7484D-65C6-456B-9320-0089BB04FFEB}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "test", "test\test.fsproj", "{5C728C30-F75F-4C40-A182-4FB0EA226A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84F7484D-65C6-456B-9320-0089BB04FFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F7484D-65C6-456B-9320-0089BB04FFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F7484D-65C6-456B-9320-0089BB04FFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F7484D-65C6-456B-9320-0089BB04FFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C728C30-F75F-4C40-A182-4FB0EA226A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C728C30-F75F-4C40-A182-4FB0EA226A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
